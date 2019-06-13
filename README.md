@@ -1,10 +1,12 @@
 # My Research Essentials - Online Resource
 
-This repository homes a web application to filter and display the different online resources provided by [My Learning Essentials](https://www.library.manchester.ac.uk/using-the-library/staff/research/my-research-essentials/online-resources/)
+This repository homes a web application to display the different online resources provided by [My Research Essentials](https://www.library.manchester.ac.uk/using-the-library/staff/research/my-research-essentials/online-resources/)
 
 - [Demo](https://uomlibrary.github.io/mre-online-resources/)
 <!-- - [Link to Production](https://www.library.manchester.ac.uk/using-the-library/students/training-and-skills-support/my-learning-essentials/online-resources/)
 - [Link to Dev](http://libdev.cmsstage.manchester.ac.uk/using-the-library/students/training-and-skills-support/my-learning-essentials/online-resources/) -->
+
+It is a carbon coby of the [My Learning Essentials](https://www.library.manchester.ac.uk/using-the-library/staff/research/my-learning-essentials/online-resources/) page, and has the ability to filter resources based on tags, but currently MRE does not use tags. 
 
 ## Dependencies
 
