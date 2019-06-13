@@ -162,7 +162,7 @@ gulp.task(
     function(cb) {
         request(
             {
-                uri: 'https://www.library.manchester.ac.uk/using-the-library/students/training-and-skills-support/my-learning-essentials/online-resources/',
+                uri: 'https://www.library.manchester.ac.uk/using-the-library/staff/research/my-research-essentials/online-resources/',
                 method: 'GET'
             },
             function(error, response, body) {
