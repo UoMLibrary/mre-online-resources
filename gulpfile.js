@@ -62,8 +62,12 @@ gulp.task("build-app-html", function() {
 gulp.task("build-docs-readme-html-from-md", function(cb) {
   const readme = fs.readFileSync("./README.md", { encoding: "utf8" });
   const result = md.render(readme);
+  const dir = './docs';
+  if (!fs.existsSync(dir)){
+    fs.mkdirSync(dir);
+  }
   fs.writeFileSync(
-    "./docs/readme.html",
+    dir + "/readme.html",
     '<link rel="stylesheet" href="uom.css" inline>' +
       '<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.15.6/styles/default.min.css" inline>' +
       '<script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.15.6/highlight.min.js" inline></script>' +
