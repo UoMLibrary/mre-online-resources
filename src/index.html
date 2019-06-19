@@ -18,7 +18,7 @@
 
     <div ng-if="loaded" ng-cloak>
         <!-- Format filter buttons -->
-        <div>
+        <div ng-if="formats.length > 1">
             <div class="mle_format_button disable-selection hand-cursor" ng-class="formatFilters.includes(format) ? 'mle_format_button_active' : 'mle_format_button_inactive'" ng-repeat="format in formats" ng-click="formatToggle(format)">
                 {{format}}
             </div>
@@ -32,7 +32,7 @@
         </div>
 
         <!-- Clear filters button -->
-        <div class="mle_clear_filters_button disable-selection hand-cursor" ng-click="clearFilters()">
+        <div ng-if="formats.length < 1 && tags.length < 1" class="mle_clear_filters_button disable-selection hand-cursor" ng-click="clearFilters()">
             Clear filters
         </div>
 
