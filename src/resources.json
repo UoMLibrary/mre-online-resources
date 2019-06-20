@@ -61,5 +61,14 @@
     "format": "Online tutorial",
     "link": "https://www.escholar.manchester.ac.uk/learning-objects/mre/7-steps/",
     "tags": []
+  },
+  {
+    "featured": false,
+    "title": "testing this thing",
+    "description": "Promotion of your papers and research is very important. Even the most valuable pieces of academic work can become lost in the vast number of papers that are published each year.\nThis resource will guide you through 7 steps you can take to maximise the profile and reach of your work and ensure that it is credited to you correctly",
+    "duration": "30 minutes",
+    "format": "Video",
+    "link": "https://www.escholar.manchester.ac.uk/learning-objects/mre/7-steps/",
+    "tags": ["test", "thing" ]
   }
 ]

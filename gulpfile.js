@@ -129,7 +129,7 @@ gulp.task(
     "build-docs"
   )
 );
-gulp.task("extract-legacy-online-resources", function(cb) {
+gulp.task("extract-legacy-online-resources", function(cb) { 
   request(
     {
       uri:
