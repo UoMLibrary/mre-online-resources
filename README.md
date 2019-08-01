@@ -3,8 +3,8 @@
 This repository homes a web application to display the different online resources provided by [My Research Essentials](https://www.library.manchester.ac.uk/using-the-library/staff/research/my-research-essentials/online-resources/)
 
 - [Demo](https://uomlibrary.github.io/mre-online-resources/)
-- [Link to Production](https://www.library.manchester.ac.uk/using-the-library/students/training-and-skills-support/my-learning-essentials/online-resources/)
-- [Link to Dev](http://libdev.cmsstage.manchester.ac.uk/using-the-library/students/training-and-skills-support/my-learning-essentials/online-resources/)
+- [Link to Production](https://www.library.manchester.ac.uk/using-the-library/staff/research/my-research-essentials/)
+- [Link to Dev](http://libdev.cmsstage.manchester.ac.uk/using-the-library/staff/research/my-research-essentials/)
 
 It is a carbon coby of the [My Learning Essentials](https://www.library.manchester.ac.uk/using-the-library/staff/research/my-learning-essentials/online-resources/) page, and has the ability to filter resources based on tags, but currently MRE does not use tags. 
 
@@ -31,7 +31,7 @@ If source file (any file located in ```<project-path>/src```) is edited, a build
 
 #### Publishing
 - Go to [T4 site manager](https://sitemanager.manchester.ac.uk)
-- Navigate to Assets -> Content Types -> LIB-MLE-online-resource-v2 -> Edit. 
+- Navigate to Assets -> Content Types -> LIB-MRE-online-resource-v2 -> Edit. 
 - [Info] This should result in you arriving at the [LIB-MLE-online-resource-v2 Content Type](https://sitemanager.manchester.ac.uk/terminalfour/SiteManager?ctfn=template&fnno=10&tid=1953&gid=668)
 - Now navigate to: Content Layout -> Edit text/html
 - Paste contents of ```<project-path>/dist/LIB-MLE-online-resource-v2/index.html```
