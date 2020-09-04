@@ -1,5 +1,32 @@
 [
+   {
+    "featured": false,
+    "title": "7 Steps to maximise the profile of your next paper",
+    "description": "Promotion of your papers and research is very important. Even the most valuable pieces of academic work can become lost in the vast number of papers that are published each year.\nThis resource will guide you through 7 steps you can take to maximise the profile and reach of your work and ensure that it is credited to you correctly",
+    "duration": "30 minutes",
+    "format": "Online tutorial",
+    "link": "https://www.escholar.manchester.ac.uk/learning-objects/mre/7-steps/",
+    "tags": []
+  }
   {
+    "featured": false,
+    "title": "Editing a journal",
+    "description": "Being a journal editor can be hard work, enjoyable, frustrating, fascinating, aggravating and enlightening - frequently all at the same time.\nThis resource will give you an overview of the role of an editor. It will highlight the benefits of being an editor, how the role fits into the journal publishing process, and some of the challenges and decisions you will face in your work as an editor.",
+    "duration": "30 mins",
+    "format": "Online tutorial",
+    "link": "https://www.escholar.manchester.ac.uk/learning-objects/mre/editing-articles/",
+    "tags": []
+  },
+    {
+    "featured": false,
+    "title": "How to get published in academic journals",
+    "description": "There are many reasons to write up your research and disseminate it to the scholarly community and the wider public. This resource focuses on journal publications, providing tips on how to get your articles accepted, and highlighting what to expect during the editorial process.",
+    "duration": "30 mins",
+    "format": "Online tutorial",
+    "link": "https://www.escholar.manchester.ac.uk/learning-objects/mre/getting-published/",
+    "tags": []
+  },
+    {
     "featured": false,
     "title": "Introduction to Citation Analysis",
     "description": "You've spent a lot of time on making sure your research is cutting edge and packed full of insight and new discoveries; now you want to get an impression of the influence it's having.\nThis online module provides an introduction to Citation Analysis. It starts by looking at what a citation is, and explains why it's not always true that the more citations a publication receives, the more influential it is.\nYou’ll see how average levels of citation are different in different academic disciplines, and how percentiles can be used to assess the citation impact of a publication.",
@@ -10,11 +37,11 @@
   },
   {
     "featured": false,
-    "title": "Editing a journal",
-    "description": "Being a journal editor can be hard work, enjoyable, frustrating, fascinating, aggravating and enlightening - frequently all at the same time.\nThis resource will give you an overview of the role of an editor. It will highlight the benefits of being an editor, how the role fits into the journal publishing process, and some of the challenges and decisions you will face in your work as an editor.",
+    "title": "Mindfulness for Postgraduate Research",
+    "description": "Being a postgraduate researcher can be challenging. As a researcher you will have to manage shifting and competing deadlines and workloads that can occasionally make you feel lost or overwhelmed. \nMindfulness can have a positive impact on your wellbeing. It can help you face the challenges you will encounter as a researcher by improving concentration and grounding you in the here and now. This resource will give you an introduction to mindfulness and guide you through various mindfulness practices.",
     "duration": "30 mins",
     "format": "Online tutorial",
-    "link": "https://www.escholar.manchester.ac.uk/learning-objects/mre/editing-articles/",
+    "link": "https://www.escholar.manchester.ac.uk/learning-objects/mre/mindfulness-for-postgraduate-research/",
     "tags": []
   },
   {
@@ -37,15 +64,6 @@
   },
   {
     "featured": false,
-    "title": "How to get published in academic journals",
-    "description": "There are many reasons to write up your research and disseminate it to the scholarly community and the wider public. This resource focuses on journal publications, providing tips on how to get your articles accepted, and highlighting what to expect during the editorial process.",
-    "duration": "30 mins",
-    "format": "Online tutorial",
-    "link": "https://www.escholar.manchester.ac.uk/learning-objects/mre/getting-published/",
-    "tags": []
-  },
-  {
-    "featured": false,
     "title": "Research Data Explained",
     "description": "All research relies on data to support arguments and prove hypotheses, so managing your research data effectively is crucial.\nThis resource introduces you to what research data is, how it is defined, and how it differs from other types of information.\n After completion you will:\n\nUnderstand the characteristics of data in various disciplines\nBe able to distinguish between different types of research data\nRecognise the importance of managing research data",
     "duration": "30 minutes",
@@ -53,13 +71,5 @@
     "link": "https://www.escholar.manchester.ac.uk/learning-objects/mre/research-data-explained/",
     "tags": []
   },
-  {
-    "featured": false,
-    "title": "7 Steps to maximise the profile of your next paper",
-    "description": "Promotion of your papers and research is very important. Even the most valuable pieces of academic work can become lost in the vast number of papers that are published each year.\nThis resource will guide you through 7 steps you can take to maximise the profile and reach of your work and ensure that it is credited to you correctly",
-    "duration": "30 minutes",
-    "format": "Online tutorial",
-    "link": "https://www.escholar.manchester.ac.uk/learning-objects/mre/7-steps/",
-    "tags": []
-  }
+
 ]
